@@ -1,0 +1,82 @@
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\appsettings.Development.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\appsettings.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Dating Chat App.exe
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Dating Chat App.deps.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Dating Chat App.runtimeconfig.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Dating Chat App.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Dating Chat App.pdb
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Azure.Core.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Azure.Identity.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Humanizer.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.CodeDom.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Memory.Data.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\DatingChat.DataAccess.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\DatingChat.Models.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\DatingChat.Utility.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\DatingChat.DataAccess.pdb
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\DatingChat.Models.pdb
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\bin\Debug\net7.0\DatingChat.Utility.pdb
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.csproj.AssemblyReference.cache
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.AssemblyInfoInputs.cache
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.AssemblyInfo.cs
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.csproj.CoreCompileInputs.cache
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.MvcApplicationPartsAssemblyInfo.cs
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.MvcApplicationPartsAssemblyInfo.cache
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets\msbuild.Dating Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets\msbuild.build.Dating Chat App.props
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dating Chat App.props
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dating Chat App.props
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets.pack.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets.build.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\staticwebassets.development.json
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\scopedcss\bundle\Dating Chat App.styles.css
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.csproj.CopyComplete
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\refint\Dating Chat App.dll
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.pdb
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\Dating Chat App.genruntimeconfig.cache
+H:\C# projects\Angular projects\Dating Chat App\Dating Chat App\obj\Debug\net7.0\ref\Dating Chat App.dll

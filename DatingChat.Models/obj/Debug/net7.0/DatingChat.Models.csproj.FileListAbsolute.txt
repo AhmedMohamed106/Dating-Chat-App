@@ -1,0 +1,14 @@
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\bin\Debug\net7.0\DatingChat.Models.deps.json
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\bin\Debug\net7.0\DatingChat.Models.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\bin\Debug\net7.0\DatingChat.Models.pdb
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.csproj.AssemblyReference.cache
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.AssemblyInfoInputs.cache
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.AssemblyInfo.cs
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.csproj.CoreCompileInputs.cache
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\refint\DatingChat.Models.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.pdb
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\ref\DatingChat.Models.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\bin\Debug\net7.0\DatingChat.Models.runtimeconfig.json
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.Models\obj\Debug\net7.0\DatingChat.Models.genruntimeconfig.cache

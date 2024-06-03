@@ -1,0 +1,17 @@
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\bin\Debug\net7.0\DatingChat.DataAccess.deps.json
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\bin\Debug\net7.0\DatingChat.DataAccess.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\bin\Debug\net7.0\DatingChat.DataAccess.pdb
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\bin\Debug\net7.0\DatingChat.Models.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\bin\Debug\net7.0\DatingChat.Models.pdb
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.csproj.AssemblyReference.cache
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.AssemblyInfoInputs.cache
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.AssemblyInfo.cs
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.csproj.CoreCompileInputs.cache
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.csproj.CopyComplete
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\refint\DatingChat.DataAccess.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.pdb
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\ref\DatingChat.DataAccess.dll
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\bin\Debug\net7.0\DatingChat.DataAccess.runtimeconfig.json
+H:\C# projects\Angular projects\Dating Chat App\DatingChat.DataAccess\obj\Debug\net7.0\DatingChat.DataAccess.genruntimeconfig.cache

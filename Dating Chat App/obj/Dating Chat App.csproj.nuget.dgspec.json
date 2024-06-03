@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\C# projects\\Angular projects\\Dating Chat App\\Dating Chat App\\Dating Chat App.csproj": {}
+  },
+  "projects": {
+    "H:\\C# projects\\Angular projects\\Dating Chat App\\Dating Chat App\\Dating Chat App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\C# projects\\Angular projects\\Dating Chat App\\Dating Chat App\\Dating Chat App.csproj",
+        "projectName": "Dating Chat App",
+        "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\Dating Chat App\\Dating Chat App.csproj",
+        "packagesPath": "C:\\Users\\hfcs\\.nuget\\packages\\",
+        "outputPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\Dating Chat App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hfcs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.DataAccess\\DatingChat.DataAccess.csproj": {
+                "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.DataAccess\\DatingChat.DataAccess.csproj"
+              },
+              "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj": {
+                "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj"
+              },
+              "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Utility\\DatingChat.Utility.csproj": {
+                "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Utility\\DatingChat.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.DataAccess\\DatingChat.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.DataAccess\\DatingChat.DataAccess.csproj",
+        "projectName": "DatingChat.DataAccess",
+        "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.DataAccess\\DatingChat.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hfcs\\.nuget\\packages\\",
+        "outputPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hfcs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj": {
+                "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj",
+        "projectName": "DatingChat.Models",
+        "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\DatingChat.Models.csproj",
+        "packagesPath": "C:\\Users\\hfcs\\.nuget\\packages\\",
+        "outputPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hfcs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Utility\\DatingChat.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Utility\\DatingChat.Utility.csproj",
+        "projectName": "DatingChat.Utility",
+        "projectPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Utility\\DatingChat.Utility.csproj",
+        "packagesPath": "C:\\Users\\hfcs\\.nuget\\packages\\",
+        "outputPath": "H:\\C# projects\\Angular projects\\Dating Chat App\\DatingChat.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hfcs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
